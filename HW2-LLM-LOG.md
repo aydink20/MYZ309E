@@ -1118,4 +1118,6 @@ print(f"Mutual Information: {mi:.4f}")
 
 <div class="conversation"><h4>Soru 2 </h4><pre class="message">
 
+https://chatgpt.com/share/67f40ce1-da60-8007-85b5-e4163c962fab
+
 

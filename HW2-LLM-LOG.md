@@ -1121,6 +1121,9 @@ print(f"Mutual Information: {mi:.4f}")
 https://chatgpt.com/share/67f40ce1-da60-8007-85b5-e4163c962fab
 
 
+<div class="conversation"><h4>Soru 3 </h4><pre class="message">
+https://chatgpt.com/share/67f43983-7118-8007-865a-4db37d977c77
+
 
 <div class="conversation"><h4>Soru 4 </h4><pre class="message">
 

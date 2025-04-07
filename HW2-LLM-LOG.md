@@ -1113,3 +1113,9 @@ print(f"Mutual Information: {mi:.4f}")
 ---
 
 İstersen bu alt küme ile çalıştırıp çıkan sonuçları da birlikte değerlendirebiliriz. Hazırsan hemen geçebiliriz!</div></pre></div>
+
+
+
+<div class="conversation"><h4>Soru 2 </h4><pre class="message">
+
+

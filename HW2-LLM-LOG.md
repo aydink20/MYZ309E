@@ -1122,7 +1122,12 @@ https://chatgpt.com/share/67f40ce1-da60-8007-85b5-e4163c962fab
 
 
 <div class="conversation"><h4>Soru 3 </h4><pre class="message">
+
 https://chatgpt.com/share/67f43983-7118-8007-865a-4db37d977c77
+
+Soru 3'ün ilk kısmı yukarıdaki şekilde ancak oradan sadece veriyi bilgisayara çekme ve çalışma ortamına yükleme kodlarını kullandım. Geri kalan kısım aşağıdaki linkte.
+
+https://chatgpt.com/share/67f587b1-0550-8007-8739-d1bf2edcf138
 
 
 <div class="conversation"><h4>Soru 4 </h4><pre class="message">

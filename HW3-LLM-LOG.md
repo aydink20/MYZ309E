@@ -3059,4 +3059,4 @@ hazırlayıp gönderebilirim!
 
 👉🏻 "**Evet, tam final kodu ver**" dersen, hemen başlıyorum. 🚀  
 Cevabını bekliyorum! 🎯  
-Devam edelim mi?</div></pre><pre class="message"><div class="author">user</div>
+Devam edelim mi?</div></pre><pre class="message">

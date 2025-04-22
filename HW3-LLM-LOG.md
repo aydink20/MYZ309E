@@ -3060,3 +3060,16 @@ hazırlayıp gönderebilirim!
 👉🏻 "**Evet, tam final kodu ver**" dersen, hemen başlıyorum. 🚀  
 Cevabını bekliyorum! 🎯  
 Devam edelim mi?</div></pre><pre class="message">
+
+
+
+
+<div class="conversation"><h4>Soru 2</h4>
+
+
+https://chatgpt.com/share/6807aad6-77cc-8007-a76b-d4d71dc2e036
+
+
+<div class="conversation"><h4>Soru 3</h4>
+
+https://chatgpt.com/share/6807aaef-15a8-8007-b8c6-048cd9b37797
